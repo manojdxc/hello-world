@@ -1,1 +1,2 @@
 this is a sample text file.
+This is modified as part of discussion.
